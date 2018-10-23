@@ -129,8 +129,8 @@ section{
   background-color: #A52A2A;
   width: 15%;
   height: 20%;
-  margin-right: 0;
-  margin-top: 0;
+  margin-right: -25px;
+  margin-top: -25px;
   margin-left: auto;
   font-family: Helvetica;
   color: white;
@@ -141,8 +141,8 @@ section{
   background-color: green;
   width: 15%;
   height: 20%;
-  margin-right: 0;
-  margin-top: 0;
+  margin-right: -25px;
+  margin-top: -25px;
   margin-left: auto;
   font-family: Helvetica;
   color: white;
@@ -153,8 +153,8 @@ section{
   background-color: blue;
   width: 15%;
   height: 20%;
-  margin-right: 0;
-  margin-top: 0;
+  margin-right: -25px;
+  margin-top: -25px;
   margin-left: auto;
   font-family: Helvetica;
   color: white;
